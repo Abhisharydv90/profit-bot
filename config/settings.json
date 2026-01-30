@@ -1,0 +1,6 @@
+{
+  "profit_target": 500,
+  "withdrawal_address": "your_wallet_address",
+  "conversion_rate": 0.85,
+  "timezone": "Asia/Kolkata"
+}
